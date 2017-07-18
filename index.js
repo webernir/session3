@@ -4,5 +4,6 @@ function readFile(filepath) {
 }
 
 function writeFile(content) {
+    alert('im writing it!')
   return filePath
 }
