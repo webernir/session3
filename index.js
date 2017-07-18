@@ -1,6 +1,6 @@
 function readFile(filepath) {
     console.log("i just read a file")
-    throw Error('i cannot read at morning!')
+    throw Error('i cannot read at afternoon!')
 }
 
 function writeFile(content) {
