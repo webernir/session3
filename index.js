@@ -1,3 +1,7 @@
 function readFile(filepath) {
-    console.log('i just read a file')
+  console.log("i just read a file")
+}
+
+function writeFile(content) {
+  return filePath
 }
